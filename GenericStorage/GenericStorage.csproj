@@ -2,23 +2,24 @@
   <PropertyGroup>
     <TargetFrameworks>netcoreapp2.2;netstandard2.0;net46</TargetFrameworks>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Authors>Dynamix</Authors>
-    <Company />
+    <Authors>Karen Balabekyan</Authors>
+    <Company>Dynamix</Company>
     <PackageProjectUrl>https://github.com/KarenBalabekyan/GenericStorage</PackageProjectUrl>
     <RepositoryUrl>https://github.com/KarenBalabekyan/GenericStorage</RepositoryUrl>
     <PackageTags>c#, dotnet, local, generic, cache, session, storage</PackageTags>
     <Description>A simple and lightweight tool for persisting data in dotnet (core) apps.</Description>
     <RepositoryType>git</RepositoryType>
-    <PackageIconUrl>https://d17oy1vhnax1f7.cloudfront.net/items/1x2w321G3u3x2z0g120Q/KarenBalabekyan-beer.png</PackageIconUrl>
+    <PackageIconUrl></PackageIconUrl>
     <PackageLicenseUrl>https://github.com/KarenBalabekyan/GenericStorage/blob/master/LICENSE</PackageLicenseUrl>
     <Version>1.0.0</Version>
     <RootNamespace>Dynamix.Net</RootNamespace>
     <PackageReleaseNotes>
       See the releases page on GitHub for release notes:
-      https://github.com/hanssens/GenericStorage-for-dotnet/releases
+      https://github.com/KarenBalabekyan/GenericStorage/releases
     </PackageReleaseNotes>
+  
     <AssemblyName>GenericStorage</AssemblyName>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
     <FileVersion>1.0.0.0</FileVersion>
-  </PropertyGroup> 
+  </PropertyGroup>
 </Project>
