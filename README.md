@@ -55,7 +55,11 @@ The tests are some pretty good examples to get familiar with the lib. But here i
 	storage.Store(key, value);
 
 ##### Get()
+[Serializable]
+class car
+{
 
+}
 	// fetch any object - as object
 	storage.Get(key);
 
